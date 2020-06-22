@@ -27,8 +27,8 @@ aboutBook:
   subtitle: "Have you ever..."
   items:
     - content: "Picked up an admissions guide book, only to find one chapter generically useful?"
-    - content: "Tried finding LNAT practices of the same standard as the official practice tests?"
-    - content: "Wondered how to write a UCAS personal statement?"
+    - content: "Tried and failed to find LNAT practices of the same standard as the official practice tests?"
+    - content: "Wondered what points to write and how to structure your UCAS personal statement?"
     - content: "Been unsure and afraid of the Oxbridge interview process?"
   header:
     "I have, and I'm here to help."
@@ -36,7 +36,7 @@ aboutBook:
     Time and money shouldn't go to waste, especially on guide books that waste precious space telling you things you don't need, or generic advice that applies to all courses, but are useful to no one.
     </p>
     <p class='lead'>
-    This book will tell you what you need and might want to know about applying to the top UK Law schools - considerations to make while choosing a university, your application timeline, how to write personal statements, preparing for the LNAT, Oxbridge interviews and other Oxbridge specific advice.
+    This book will tell you what you need and might want to know about applying to the top UK Law schools - considerations to make while choosing a university, your application timeline, how to write personal statements, preparing for the LNAT MCQ and Essay, Oxbridge interviews and other Oxbridge specific advice.
     </p>"
 
 
@@ -114,13 +114,13 @@ aboutMe:
   works:
     - title: "I'm here to make sure you don't make the same mistakes I did."
       description: "<p class = 'lead'>
-      I’m a student from Singapore, and studying law at Oxford has always been a dream of mine. I scored fairly averagely in the International Baccalaureate (42), borrowed and bought all the admission and LNAT guide books I could, and was rejected by Oxford and LSE on my first try. Oxford, LSE, UCL, KCL and Durham accepted my second application.
+      I’m a student from Singapore, and studying law at Oxford had always been a dream of mine. I scored fairly averagely in the International Baccalaureate, borrowed and bought all the admission and LNAT guide books I could, and was rejected by Oxford and LSE on my first try. Oxford, LSE, UCL, KCL and Durham accepted my second application.
       </p> 
       <p class = 'lead'>
-      This book details what I learnt in the intervening year between my applications. Not everyone gets a second try at Oxbridge and the likes, so I'll explore everything I did wrong my first go around, and everything right in my second. Focusing on passion over academics in my personal statement, doing the wrong LNAT practices, spending too much time preparing what was not asked in the interview - I'm here to make sure you don't do any of that, but instead spend your time engaging in useful preparation.\
+      This book details what I learnt in the intervening year between my applications. Not everyone gets a second try at Oxbridge and the likes, so in this book, I will waste no time telling you everything I did wrong my first go around, and everything right in my second so you'll only need one chance. Focusing on passion over academics in my personal statement, doing the wrong LNAT practices, spending too much time preparing what was not asked in the interview - I'm here to make sure you don't do any of that, but instead spend your time engaging in useful preparation.\
       </p>
       <p class = 'lead'>
-      I list and explain the components of a good personal statement along with an example, how and where to acquire good practices for the LNAT, provide a depository of likely Oxbridge interview questions and possible answers to them, and detail my personal experiences with these components so you know what to expect.
+      I list and explain the components of a good personal statement, provide example statement, explain how to prepare for the LNAT and acquire quality practices for free, provide a depository of likely Oxbridge interview questions and possible answers to them, and detail my personal experiences with these components so you know what to expect.
       </p>
       <p class = 'lead'>
       For Oxbridge hopefuls, I provide some admission tips - the famous Oxford-Cambridge cycle, applying to some colleges over others, international students college selection rumours etc.
@@ -140,11 +140,11 @@ buyNow:
   title: "Prepare Smart. Start Today."
   subtitle: "Get Your Guide to Entering the Top UK Law Schools. "
   content: "<p class='lead'>
-    We're not here to waste time or money. We're here to read law in a reputable UK university, and there's no better place to start than here.
+    You're not here to waste time or money. You're here to read law in a reputable UK university, and there's no better place to start than here.
     </p>
     <p class = 'lead'>
     For a limited time only: <br>
-    <strong>£14.99</strong> <del>£20.00</del>
+    <b>£14.99</b> <del>£20.00</del>
     </p>
     <p class='lead'>
     Buy now and receive a PDF copy of the book along with other relevant materials instantly! Make a choice to study smart now.
