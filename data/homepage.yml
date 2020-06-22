@@ -17,7 +17,6 @@ showcase:
     alt: "Showcase keyboard and mouse image"
 
   button:
-    icon: "icon-mail-fill"
     btnText: "GET THE GUIDE"
     URL: "#buyNow"
 
@@ -151,7 +150,6 @@ buyNow:
     Buy now and receive a PDF copy of the book along with other relevant materials within 24 hours!
     </p>"
   button:
-    icon: "icon-mail-fill"
     btnText: "Buy Now"
     URL: ""
     isSnipCart: true
@@ -169,7 +167,6 @@ preview:
     x: "img/buyNow/book_cover.png"
     _2x: "img/buyNow/book_cover2x.png"
   button:
-    icon: "icon-mail-fill"
     btnText: "Be wowed"
     target: "pdf/dummy.pdf"
 
