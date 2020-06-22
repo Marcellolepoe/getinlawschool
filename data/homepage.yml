@@ -168,7 +168,7 @@ preview:
     _2x: "img/buyNow/book_cover2x.png"
   button:
     btnText: "Download the sample here!"
-    target: "pdf/dummy.pdf"
+    target: "pdf/Sample.pdf"
 
 # newsletter
 newsletter:
