@@ -162,7 +162,7 @@ buyNow:
 preview:
   enable: true
   title: "The First 15 Pages."
-  subtitle: "Download a free sample of the first 16 pages now! Includes the Contents Page, Preface and part of the Introduction."
+  subtitle: "Download a free sample of the first 15 pages now! Includes the Contents Page, Preface and part of the Introduction."
   image:
     x: "img/buyNow/book_cover.png"
     _2x: "img/buyNow/book_cover2x.png"
